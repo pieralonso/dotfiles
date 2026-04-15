@@ -9,6 +9,6 @@ color_scheme = 'Afterglow',
 
   window_decorations = "RESIZE",
 
-  window_background_opacity = 0.95,
+  window_background_opacity = 0.98,
   audible_bell = "Disabled"
 }
